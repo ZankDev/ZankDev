@@ -16,7 +16,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 </p>
 
 ## 🛠 Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+<a href="https://github.com/TusTusDev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TusTusDev">
 </a>
 <a href="https://github.com/TusTusDev?tab=followers"><img src="https://img.shields.io/github/followers/TusTusDev?label=Followers&style=social" alt="GitHub Badge"></a>

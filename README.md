@@ -2,7 +2,11 @@
 
 ![GITHUB](https://github-readme-stats.vercel.app/api?username=TusTusDev&count_private=true&show_icons=true&theme=radical)
 
+
 ![GITHDDUB](https://github-readme-stats.vercel.app/api/top-langs/?username=TusTusDev&show_icons=true&theme=radical)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/889825233849155665)](https://discord.com/users/889825233849155665)
+
 
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

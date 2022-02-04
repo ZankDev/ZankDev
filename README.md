@@ -2,10 +2,10 @@
 
 
 
-![GITHUB](https://github-readme-stats.vercel.app/api?username=TusTusDev&count_private=true&show_icons=true&theme=radical)
+![GITHUB](https://github-readme-stats.vercel.app/api?username=ZankDev&count_private=true&show_icons=true&theme=radical)
 
 
-![GITHDDUB](https://github-readme-stats.vercel.app/api/top-langs/?username=TusTusDev&show_icons=true&theme=radical)
+![GITHDDUB](https://github-readme-stats.vercel.app/api/top-langs/?username=ZankDev&show_icons=true&theme=radical)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/889825233849155665)](https://discord.com/users/889825233849155665)
 
@@ -22,7 +22,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 </p>
 
 ## 🛠 Views and Followers
-<a href="https://github.com/TusTusDev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=TusTusDev">
+<a href="https://github.com/ZankDev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ZankDev">
 </a>
 <a href="https://github.com/TusTusDev?tab=followers"><img src="https://img.shields.io/github/followers/TusTusDev?label=Followers&style=social" alt="GitHub Badge"></a>
